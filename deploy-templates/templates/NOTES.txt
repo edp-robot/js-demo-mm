@@ -1,0 +1,1 @@
+1. Application js-demo-mm has been successfully deployed!!
